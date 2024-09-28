@@ -1,4 +1,9 @@
 ### 💬 Rules and Guidelines
+
+---
+The following section contains the rules and the guidelines of the **Skill Forge** community. These rules apply for the** **GitHub organisation**, **discussions**, **issues and the pull-requests** part of the projects and for the **Skill Forge application** itself.
+
+--- 
 #### 1. **Respect and Inclusion**
 
 - **Be Kind and Respectful**: Treat all members with kindness and respect. Embrace diversity and make our community welcoming for everyone.
