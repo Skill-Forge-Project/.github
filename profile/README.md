@@ -26,6 +26,6 @@ Get familiar with the Organisation documentation and the projects:
 
 Skill Forge is based on a micro-service architecture meaning that the application consists of few different separate projects:
 
-skill_forge - The main Skill Forge application
+[skill_forge](https://github.com/Skill-Forge-Project/skill_forge) - The main Skill Forge application
 
 [skill-forge-drakenfell](https://github.com/Skill-Forge-Project/skill-forge-drakenfell) - Development environment for those who would like to contribute to the project
