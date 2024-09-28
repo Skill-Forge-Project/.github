@@ -22,9 +22,10 @@ This GitHub organization is created to gather developers, contributors and users
 
 Get familiar with the Organisation documentation and the projects:
 
-📌 Read the rules and the community guidelines (~2min)
+📌 Read the [rules](https://github.com/Skill-Forge-Project/.github/blob/main/profile/RULES%20AND%20GUIDELINES.md) and the community guidelines (~2min)
 
-Skill Forge is based on o micro-service architecture meaning that the application consists of few different separate projects:
+Skill Forge is based on a micro-service architecture meaning that the application consists of few different separate projects:
 
 skill_forge - The main Skill Forge application
+
 [skill-forge-drakenfell](https://github.com/Skill-Forge-Project/skill-forge-drakenfell) - Development environment for those who would like to contribute to the project
